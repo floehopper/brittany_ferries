@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "mechanize"
   s.add_runtime_dependency "tidy_ffi"
   s.add_runtime_dependency "activesupport"
+  s.add_runtime_dependency "tzinfo"
 end
